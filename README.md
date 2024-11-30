@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋 I'm Nikita
+Welcome to my GitHub profile!
+I’m a Support Engineer specializing in corporate information systems with over 6 years of experience. Passionate about IT technologies, system support, and creating automation solutions.
 
 <!--
 **Leonardo66rus/Leonardo66rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
