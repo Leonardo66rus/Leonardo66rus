@@ -1,18 +1,32 @@
-### Hi there! 👋 I'm Nikita
-Welcome to my GitHub profile!
-I’m a Support Engineer specializing in corporate information systems with over 6 years of experience. Passionate about IT technologies, system support, and creating automation solutions.
+# Привет! Я Никита (Leonardo66rus) 👋
+### DevOps Engineer | Automation Specialist | AI Enthusiast
 
-<!--
-**Leonardo66rus/Leonardo66rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я нахожусь на пути от **Junior к Middle DevOps**. Моя страсть — это стабильная инфраструктура, глубокая автоматизация через Python-ботов и интеграция современных нейросетевых решений в рабочие процессы.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий:
+
+**Cloud & DevOps:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6600?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**Programming & AI:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Bot_Development-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+### 🚀 Чем я занимаюсь:
+
+* 🏗 **Infrastructure:** Поддержка корпоративных систем, деплой приложений в Docker и оркестрация в Kubernetes.
+* 🤖 **Bot Development:** Разработка умных ботов на Python (Telegram/Slack) для мониторинга и автоматизации задач.
+* 🧠 **AI Integration:** Работа с нейросетями (LLM, API), внедрение AI-инструментов в разработку и DevOps-процессы.
+* 🔄 **CI/CD Pipelines:** Настройка конвейеров сборки и автоматической "разливки" обновлений.
+
+---
+
+### 📫 Связаться со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leonardo66rus)
