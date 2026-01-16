@@ -47,7 +47,7 @@
 * **CI/CD Platform:** self-hosted GitLab, Linux/Windows Runners
 * **Containers:** Docker, private registry (Nexus)
 * **Automation:** Python-скрипты и боты для управления и мониторинга
-* **Monitoring (в процессе):** Prometheus, exporters, alerting
+* **Monitoring:** Prometheus, exporters, alerting
 
 HomeLab используется как для обучения, так и для проверки архитектурных решений перед применением в рабочих проектах.
 
