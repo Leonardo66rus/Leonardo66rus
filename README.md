@@ -1,8 +1,18 @@
 # Привет! Я Никита (Leonardo66rus) 👋
 
-### DevOps Engineer | Automation Specialist | AI Enthusiast
+### DevOps Engineer (CI/CD, Infrastructure, Security) | Automation & AI Enthusiast
 
 Я нахожусь на пути от **Junior к Middle DevOps**. Моя страсть — это стабильная инфраструктура, глубокая автоматизация через Python-ботов и интеграция современных нейросетевых решений в рабочие процессы.
+
+---
+
+### 🧠 How I work (Engineering mindset)
+
+* **Automation over manual** — всё, что можно автоматизировать, должно быть автоматизировано
+* **Reproducible environments** — одинаковый результат при каждом деплое
+* **Security by default** — проверки и сканеры встроены в CI/CD, а не добавлены постфактум
+* **CI/CD as a product** — пайплайны как поддерживаемый и масштабируемый инструмент
+* **Documentation & templates** — решения должны быть понятны и переиспользуемы
 
 ---
 
@@ -36,6 +46,14 @@
 
 **AI & Integrations:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+---
+
+### 🚩 Selected projects & focus areas
+
+* **CI/CD Security Templates** — централизованные шаблоны GitLab CI с Gitleaks и TruffleHog
+* **HomeLab Infrastructure** — Proxmox VE, VM templates, cloud-init, self-hosted GitLab & Runners
+* **Automation Bots** — Telegram-боты и Python-сервисы для мониторинга и автоматизации
 
 ---
 
